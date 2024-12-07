@@ -1,5 +1,6 @@
 ipython
 pytest
 pylint
+black
 textblob
 wikipedia
