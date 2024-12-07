@@ -4,3 +4,5 @@ pylint
 black
 textblob
 wikipedia
+fire
+pytest-cov
